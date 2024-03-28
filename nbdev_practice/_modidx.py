@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://eder-miguel.github.io',
                 'git_url': 'https://github.com/eder-miguel/nbdev_practice',
                 'lib_path': 'nbdev_practice'},
-  'syms': {'nbdev_practice.core': {'nbdev_practice.core.foo': ('core.html#foo', 'nbdev_practice/core.py')}}}
+  'syms': { 'nbdev_practice.core': {'nbdev_practice.core.foo': ('core.html#foo', 'nbdev_practice/core.py')},
+            'nbdev_practice.nbdev_practice': { 'nbdev_practice.nbdev_practice.foo': ('core.html#foo', 'nbdev_practice/nbdev_practice.py'),
+                                               'nbdev_practice.nbdev_practice.say_hello': ( 'core.html#say_hello',
+                                                                                            'nbdev_practice/nbdev_practice.py')}}}
