@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_practice",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev_practice"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_practice",
+    "section": "Install",
+    "text": "Install\npip install nbdev_practice",
+    "crumbs": [
+      "nbdev_practice"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_practice",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "nbdev_practice"
+    ]
+  },
+  {
+    "objectID": "index.html#another-test",
+    "href": "index.html#another-test",
+    "title": "nbdev_practice",
+    "section": "Another test",
+    "text": "Another test\n\nsay_hello(\"Test\")\n\n'Hello Test!'",
+    "crumbs": [
+      "nbdev_practice"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "nbdev_practice",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsource\n\n\nfoo\n\n foo ()\n\n\nfrom fastcore.test import *\n\n\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")",
+    "crumbs": [
+      "nbdev_practice"
+    ]
+  }
+]
